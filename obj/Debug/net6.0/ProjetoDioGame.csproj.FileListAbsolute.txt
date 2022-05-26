@@ -1,0 +1,15 @@
+C:\Users\sidne\Desktop\ProjetoDioGame\bin\Debug\net6.0\ProjetoDioGame.exe
+C:\Users\sidne\Desktop\ProjetoDioGame\bin\Debug\net6.0\ProjetoDioGame.deps.json
+C:\Users\sidne\Desktop\ProjetoDioGame\bin\Debug\net6.0\ProjetoDioGame.runtimeconfig.json
+C:\Users\sidne\Desktop\ProjetoDioGame\bin\Debug\net6.0\ProjetoDioGame.dll
+C:\Users\sidne\Desktop\ProjetoDioGame\bin\Debug\net6.0\ProjetoDioGame.pdb
+C:\Users\sidne\Desktop\ProjetoDioGame\obj\Debug\net6.0\ProjetoDioGame.csproj.AssemblyReference.cache
+C:\Users\sidne\Desktop\ProjetoDioGame\obj\Debug\net6.0\ProjetoDioGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidne\Desktop\ProjetoDioGame\obj\Debug\net6.0\ProjetoDioGame.AssemblyInfoInputs.cache
+C:\Users\sidne\Desktop\ProjetoDioGame\obj\Debug\net6.0\ProjetoDioGame.AssemblyInfo.cs
+C:\Users\sidne\Desktop\ProjetoDioGame\obj\Debug\net6.0\ProjetoDioGame.csproj.CoreCompileInputs.cache
+C:\Users\sidne\Desktop\ProjetoDioGame\obj\Debug\net6.0\ProjetoDioGame.dll
+C:\Users\sidne\Desktop\ProjetoDioGame\obj\Debug\net6.0\refint\ProjetoDioGame.dll
+C:\Users\sidne\Desktop\ProjetoDioGame\obj\Debug\net6.0\ProjetoDioGame.pdb
+C:\Users\sidne\Desktop\ProjetoDioGame\obj\Debug\net6.0\ProjetoDioGame.genruntimeconfig.cache
+C:\Users\sidne\Desktop\ProjetoDioGame\obj\Debug\net6.0\ref\ProjetoDioGame.dll
